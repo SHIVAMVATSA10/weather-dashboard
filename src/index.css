@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eaf6ff;
+  color: #1f2937;
+  overflow-x: hidden;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 30px;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
